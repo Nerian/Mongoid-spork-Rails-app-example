@@ -1,0 +1,2 @@
+rvm gemset create mongoid-example 
+rvm gemset use mongoid-example
